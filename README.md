@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PhoenixDB**
 
-- 🌱 I’m currently learning **Flutter& Socket Programming**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Backend Development, System Architecture, Android & Flutter**
 
