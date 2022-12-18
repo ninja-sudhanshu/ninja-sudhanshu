@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Jha</h1>
 <h3 align="center">A passionate Backend and Android developer.</h3>
 
-- 🔭 I’m currently working on **PhoenixDB**
-
 - 🌱 I’m currently learning **Flutter**
+
+- 🔭 I Like to Develop Highly Scalable Applications **PhoenixDB**
+
+- 👨‍💻 Proficient in **Node.JS, JAVA, C++ & MongoDB**
 
 - 💬 Ask me about **Backend Development, System Architecture, Android & Flutter**
 
