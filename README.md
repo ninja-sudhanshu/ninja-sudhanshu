@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 🔭 I Like to Develop Highly Scalable Applications **PhoenixDB**
+- 🔭 I Like to develop Scalable softwares and Network Applications
 
 - 👨‍💻 Proficient in **Node.JS, JAVA, C++ & MongoDB**
 
