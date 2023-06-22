@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Jha</h1>
-<h3 align="center">A passionate Backend and Android developer.</h3>
+<h3 align="center">A passionate Backend Developer.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 Currently Exploring **System design and Architecture**
 
 - 🔭 I Like to develop Scalable softwares and Network Applications
 
-- 👨‍💻 Proficient in **Node.JS, JAVA, C++ & MongoDB**
+- 👨‍💻 Proficient in **Spring Boot, JAVA, NodeJS & C++**
 
-- 💬 Ask me about **Backend Development, System Architecture, Android & Flutter**
+- 💬 Ask me about **Backend Development & System Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
