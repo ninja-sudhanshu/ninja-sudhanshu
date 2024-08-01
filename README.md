@@ -5,9 +5,9 @@
 
 - 🔭 I Like to develop Scalable softwares and Network Applications
 
-- 👨‍💻 Proficient in **Spring Boot, JAVA, NodeJS & C++**
+- 👨‍💻 Proficient in **JAVA, Spring Boot, ReactJS and NodeJS**
 
-- 💬 Ask me about **Backend Development & System Architecture**
+- 💬 Ask me about **Frontend, Backend Development & System Architecture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
