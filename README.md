@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Jha</h1>
-<h3 align="center">A passionate Backend Developer.</h3>
+<h3 align="center">A passionate Fullstack Developer.</h3>
 
 - 🌱 Currently Exploring **System design and Architecture**
 
